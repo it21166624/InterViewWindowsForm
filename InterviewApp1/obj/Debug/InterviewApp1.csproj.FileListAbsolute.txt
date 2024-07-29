@@ -1,0 +1,10 @@
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\obj\Debug\InterviewApp1.PAL.EmployeeForm.resources
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\obj\Debug\InterviewApp1.Properties.Resources.resources
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\obj\Debug\InterviewApp1.csproj.GenerateResource.cache
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\obj\Debug\InterviewApp1.csproj.CoreCompileInputs.cache
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\bin\Debug\InterviewApp1.exe.config
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\bin\Debug\InterviewApp1.exe
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\bin\Debug\InterviewApp1.pdb
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\obj\Debug\InterviewApp1.exe
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\obj\Debug\InterviewApp1.pdb
+C:\Users\dinuk\source\repos\InterviewApp1\InterviewApp1\obj\Debug\InterviewApp1.csprojAssemblyReference.cache
